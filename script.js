@@ -1,6 +1,6 @@
 (function(){
 
-alert("iniciando mi website");
+console.log("iniciando mi website");
 
 
 })();
